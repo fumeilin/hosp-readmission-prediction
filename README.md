@@ -1,2 +1,3 @@
 # hosp-readmission-prediction
-predicting 30-day hosp readmission with machine learning models
+project objectives: predicting 30-day hosp readmission with machine learning models
+data sets: analyses in this project are based on the MIMIC-III data set (https://mimic.physionet.org/)  
